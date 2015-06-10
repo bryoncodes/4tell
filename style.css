@@ -1,0 +1,20 @@
+.suggestedItem {
+  float: left;
+  width: 300px;
+  border: solid #000 1px;
+  text-align: center;
+  margin: 5px;
+}
+
+.itemLink {
+  color: #000;
+  text-decoration: none;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.red {
+  color: #f00;
+}
